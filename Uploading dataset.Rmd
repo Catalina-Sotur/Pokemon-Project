@@ -1,0 +1,25 @@
+---
+title: "Uploading data"
+author: "Catalina Soto"
+date: "2023-01-20"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+First we need to upload the data. 
+
+The information is going to be retireved from : <https://pokemondb.net/pokedex/all>
+
+What is going to be the best decision to obtain the data if it is in that format?
+
+Here we are going to scrape the information directly from the website into an R dataset
+
+Packages that we are going to need: 
+
+
+
+
+
