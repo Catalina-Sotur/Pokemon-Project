@@ -1,0 +1,10 @@
+---
+title: "Ready for marking"
+author: "Catalina Soto | 300337683"
+date: "2023-01-22"
+output: html_document
+---
+
+I dont know what  Im doing, lol 
+
+Maybe yes, maybe no, how really knows?
